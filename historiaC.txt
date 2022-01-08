@@ -1,13 +1,13 @@
-<<<<<<< HEAD
+
 Esta es la vida y obra maestra de César
 come on man u r really smart
 un cuerpo de polvo de estrella u r the universe
-=======
-Esta es la historia de César
+
+Master 1
 
 Y Anita es una persona que contribuye a este proyecto opensource uff
 
 un cuerpo de polvo de estrella u r the universe
 
 mañana nos enfocaremos en su vida laboral
->>>>>>> cabecera
+

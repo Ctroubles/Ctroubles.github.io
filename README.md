@@ -11,5 +11,7 @@ En este curso vemos de todo:
 *Trucos muy locos del profesor
 *las personalidades multlipes de Freddy
 *Creado por el increible ccc
+*Incluye ejemplos en linux, windows y mac
+*Disponible para todas las edades
 
 Y como un amable recordatorio: **este readme.md es un chiste** Diseñado para el ejemplo. si llegas acá NO TE LO TOMES EN SERIO y mejorve a ver el curso de git-github
